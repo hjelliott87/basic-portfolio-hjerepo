@@ -1,5 +1,59 @@
 * {
     box-sizing: border-box;
+    text-align: center;
+    background-image: url("hotel-wallpaper-black.png");
   }
 
-  
+  header {
+    padding: 25px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 150px;
+    width: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: #4aaaa5;
+  }
+
+  h1 {
+    font-size: 20px;
+    text-align: left;
+    color: white;
+  }
+
+  #link {
+    font-size: 20px;
+    text-align: right;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  h2 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+  }
+
+  textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+    text-align: left;
+  }
+
+  body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    /*
+    background-image: url("..assets/images/hotel-wallpaper-black");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    */
+  }
