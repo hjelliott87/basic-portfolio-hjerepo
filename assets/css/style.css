@@ -68,9 +68,10 @@
 
   #outlink {
     width: 25%;
-    height: 15%px;
+    height: 15%;
     padding: 12px 12px;
     background-color: #4aaaa5;
+    color: white;
   }
 
   #footer {
