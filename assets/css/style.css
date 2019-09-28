@@ -66,6 +66,10 @@
     background-attachment: scroll;
   }
 
+  #bio-pic {
+    float: left;
+  }
+
   #outlink {
     width: 25%;
     height: 15%;
